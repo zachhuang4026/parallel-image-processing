@@ -8,21 +8,20 @@ This is a project from MPCS-52060 Parallel Programming course. The project speed
 # Speed Up Graph
 ### Pipeline 
 <p align = 'center'>
-<img src = 'https://github.com/zachhuang4026/parallel-image-processing/blob/main/speedup_pipeline.png' width="300">
+<img src = 'https://github.com/zachhuang4026/parallel-image-processing/blob/main/speedup_pipeline.png' width="600">
 </p>
-![alt text](https://github.com/zachhuang4026/parallel-image-processing/blob/main/speedup_pipeline.pdf)
 
 ### BSP
 <p align = 'center'>
-<img src = 'https://github.com/zachhuang4026/parallel-image-processing/blob/main/speedup_bsp.pdf' width="300">
+<img src = 'https://github.com/zachhuang4026/parallel-image-processing/blob/main/speedup_bsp.png' width="600">
 </p>
 
 ### Work Stealing
 <p align = 'center'>
-<img src = 'https://github.com/zachhuang4026/parallel-image-processing/blob/main/speedup_steal.pdf' width="300">
+<img src = 'https://github.com/zachhuang4026/parallel-image-processing/blob/main/speedup_steal.png' width="600">
 </p>
 
 ### Work Balancing
 <p align = 'center'>
-<img src = 'https://github.com/zachhuang4026/parallel-image-processing/blob/main/speedup_balance.pdf' width="300">
+<img src = 'https://github.com/zachhuang4026/parallel-image-processing/blob/main/speedup_balance.png' width="600">
 </p>
