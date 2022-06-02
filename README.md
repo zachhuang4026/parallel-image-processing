@@ -8,7 +8,7 @@ This is a project from MPCS-52060 Parallel Programming course. The project speed
 # Speed Up Graph
 ### Pipeline 
 <p align = 'center'>
-<img src = 'https://github.com/zachhuang4026/parallel-image-processing/blob/main/speedup_pipeline.pdf' width="300">
+<img src = 'https://github.com/zachhuang4026/parallel-image-processing/blob/main/speedup_pipeline.png' width="300">
 </p>
 ![alt text](https://github.com/zachhuang4026/parallel-image-processing/blob/main/speedup_pipeline.pdf)
 
