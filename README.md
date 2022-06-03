@@ -5,7 +5,14 @@ This is a project from MPCS-52060 Parallel Programming course. The project speed
 - Work Stealing Algorithms
 - Work Balancing Algorithms
 
+The parallel processing is to divide one image into chucks and apply to effect at the same time.
+<p align = 'center'>
+<img src = 'https://github.com/zachhuang4026/parallel-image-processing/blob/main/demo.png' width="600">
+</p>
+
 # Speed Up Graph
+The input images all include 3 version based on its resolution (small/mixture/big). 
+
 ### Pipeline 
 <p align = 'center'>
 <img src = 'https://github.com/zachhuang4026/parallel-image-processing/blob/main/speedup_pipeline.png' width="600">
